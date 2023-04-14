@@ -22,7 +22,7 @@ Steps:
 
     ![bindiff](./img/bindiff.png)
 
-    > _NOTE_: You could also select only the ones you want to import, but the script also provide some basic filtering (minimu similarity and confidence).
+    > _NOTE_: You could also select only the ones you want to import, but the script also provide some basic filtering (minimum similarity and confidence).
     > Feel also free to edit the script and add more complex filtering, by editing the `filterFn` function
 
 - Paste the selection in a file, should look something like this:
@@ -36,32 +36,6 @@ Upon starting the script you will be asked for the CSV file and some filtering p
 
 ![console](./img/console.png)
 
-<div style="width=100%; text-align: center">
-    <div
-        style="display: inline-block; width: 48%"
-    >
-        <img style="width=100%" src="./img/func_before.png" />
-        BEFORE
-    </div>
-    <div
-        style="display: inline-block; width: 48%"
-    >
-        <img style="width=100%" src="./img/func_after.png" />
-        AFTER
-    </div>
-</div>
+![functions](./img/funcs.png)
 
-<div style="width=100%; text-align: center">
-    <div
-        style="display: inline-block; width: 48%"
-    >
-        <img style="width=100%" src="./img/entry_before.png" />
-        BEFORE
-    </div>
-    <div
-        style="display: inline-block; width: 48%"
-    >
-        <img style="width=100%" src="./img/entry_after.png" />
-        AFTER
-    </div>
-</div>
+![entry](./img/entry.png)
